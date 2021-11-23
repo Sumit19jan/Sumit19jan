@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/75352438/133910287-f2dc0bf3-0889-4f65-b46e-b7e700d20d62.gif" />
 </p>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nishant</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm SUmit</h1>
 <h3 align="center">Android developer from India</h3>
    🙋‍♂️ About Me
 
@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **MVVM Artitechture.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-- 📄 My experiences [Resume]()
+- 📄 All of my projects are available at **[RESUME](https://goofy-bell-c54a39.netlify.app)**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://goofy-bell-c54a39.netlify.app)**
 
